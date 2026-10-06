@@ -1,0 +1,5 @@
+target/
+cp.txt
+tuxkart-*.png
+.idea/
+.claude/settings.local.json
